@@ -4,9 +4,8 @@ p5.Visable.js is p5 library with brand new visibility menu for p5. It has many c
 
 **_Function:_**
 
-```Javascript
-cursor();
-```
+```p5.Visable.cursor();```
 
 **_Use:_**
 
+```p5.Visable.cursor()``` is used to create a cursor which is present inside the canvas and yoyr actual cursor gets invisible n the canvas. This cursor follows the same actions as your normal cursor does. It accepts two arguments col1 and col2. col1 is the color of the triangle of the cursor and col2 is the color of the line of your cursor.
